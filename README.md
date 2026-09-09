@@ -23,10 +23,10 @@ The long-term goal is to demonstrate how a traditional retail reporting environm
 * What products should be reordered?
 
 * How should competitor pricing and promotional allowances influence pricing decisions?
-
 * Can staff retrieve reliable product knowledge instantly instead of searching through manuals and websites?
 
-🎯 Project Vision
+## 🎯 Project Vision
+
 Traditional retail operations often rely on disconnected spreadsheets, manually generated reports and individual staff knowledge.
 This creates several problems:
 
