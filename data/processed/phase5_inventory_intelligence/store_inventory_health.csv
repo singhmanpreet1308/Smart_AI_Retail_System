@@ -1,0 +1,8 @@
+Store,Total_SKU_Records,Units_On_Hand,Out_Of_Stock,Low_Stock,High_Stock,Priority_Replenishment,Replenishment_Required,Promotion_Review,Slow_Mover_Review
+Belfast,383,405,152,190,2,6,6,2,0
+Blanch,383,871,48,203,24,3,4,19,3
+Cavan,383,1094,39,182,47,2,5,36,7
+Dundrum,383,293,156,218,2,14,10,2,0
+Gorey,383,2850,18,119,114,2,4,95,15
+Navan,383,234,207,157,0,20,13,0,0
+Sandyford,383,254,173,202,1,12,9,1,0
