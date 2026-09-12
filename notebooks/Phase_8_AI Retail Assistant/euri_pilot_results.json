@@ -1,0 +1,401 @@
+[
+  {
+    "official_model": null,
+    "product_name": null,
+    "category": null,
+    "width_mm": null,
+    "height_mm": null,
+    "depth_mm": null,
+    "screen_size_in": null,
+    "capacity_value": null,
+    "capacity_unit": null,
+    "power_w": null,
+    "energy_rating": null,
+    "warranty": null,
+    "primary_source_url": null,
+    "source_type": null,
+    "confidence": null,
+    "data_completeness": null,
+    "manufacturer": "Samsung",
+    "requested_model": "DV90DB8845",
+    "match_status": "UNVERIFIED",
+    "key_features": [],
+    "additional_source_urls": [],
+    "search_status": "NO_SEARCH_EVIDENCE",
+    "candidate_specs": {
+      "manufacturer": "Samsung",
+      "requested_model": "DV90DB8845",
+      "official_model": "DV90DB8845GB/S1",
+      "match_status": "matched_base_model",
+      "product_name": "Bespoke AI Heat Pump Tumble Dryer, 9 kg",
+      "category": "Heat pump tumble dryer",
+      "width_mm": 600,
+      "height_mm": 850,
+      "depth_mm": 600,
+      "screen_size_in": null,
+      "capacity_value": 9,
+      "capacity_unit": "kg",
+      "power_w": 800,
+      "energy_rating": "A+++",
+      "key_features": [
+        "Heat pump drying",
+        "AI Dry+",
+        "AI Energy Mode",
+        "SmartThings connectivity",
+        "OptimalDry"
+      ],
+      "warranty": null,
+      "primary_source_url": "https://www.samsung.com/uk/washers-and-dryers/tumble-dryers/dv8000d-ai-energy-bespoke-heat-pump-9kg-black-dv90db8845gb-s1/",
+      "source_type": "Official manufacturer product page",
+      "additional_source_urls": [],
+      "confidence": 0.91,
+      "data_completeness": "high"
+    },
+    "error": null,
+    "tested_at_utc": "2026-09-12T19:59:22.946848+00:00",
+    "http_status": 200,
+    "api_response": {
+      "id": "chatcmpl-ENOAeGyLJbp7Q0R2gBa0oEQcC6bv9",
+      "object": "chat.completion",
+      "created": 1789243164,
+      "model": "gpt-5.6",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"manufacturer\": \"Samsung\",\n  \"requested_model\": \"DV90DB8845\",\n  \"official_model\": \"DV90DB8845GB/S1\",\n  \"match_status\": \"matched_base_model\",\n  \"product_name\": \"Bespoke AI Heat Pump Tumble Dryer, 9 kg\",\n  \"category\": \"Heat pump tumble dryer\",\n  \"width_mm\": 600,\n  \"height_mm\": 850,\n  \"depth_mm\": 600,\n  \"screen_size_in\": null,\n  \"capacity_value\": 9,\n  \"capacity_unit\": \"kg\",\n  \"power_w\": 800,\n  \"energy_rating\": \"A+++\",\n  \"key_features\": [\n    \"Heat pump drying\",\n    \"AI Dry+\",\n    \"AI Energy Mode\",\n    \"SmartThings connectivity\",\n    \"OptimalDry\"\n  ],\n  \"warranty\": null,\n  \"primary_source_url\": \"https://www.samsung.com/uk/washers-and-dryers/tumble-dryers/dv8000d-ai-energy-bespoke-heat-pump-9kg-black-dv90db8845gb-s1/\",\n  \"source_type\": \"Official manufacturer product page\",\n  \"additional_source_urls\": [],\n  \"confidence\": 0.91,\n  \"data_completeness\": \"high\"\n}"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 397,
+        "completion_tokens": 1015,
+        "total_tokens": 1412
+      }
+    },
+    "api_model": "gpt-5.6",
+    "search_metadata": {}
+  },
+  {
+    "official_model": null,
+    "product_name": null,
+    "category": null,
+    "width_mm": null,
+    "height_mm": null,
+    "depth_mm": null,
+    "screen_size_in": null,
+    "capacity_value": null,
+    "capacity_unit": null,
+    "power_w": null,
+    "energy_rating": null,
+    "warranty": null,
+    "primary_source_url": null,
+    "source_type": null,
+    "confidence": null,
+    "data_completeness": null,
+    "manufacturer": "Samsung",
+    "requested_model": "MC28H5013AS/EU",
+    "match_status": "UNVERIFIED",
+    "key_features": [],
+    "additional_source_urls": [],
+    "search_status": "NO_SEARCH_EVIDENCE",
+    "candidate_specs": {
+      "manufacturer": "Samsung",
+      "requested_model": "MC28H5013AS/EU",
+      "official_model": "MC28H5013AS/EU",
+      "match_status": "exact_match",
+      "product_name": "28L Combination Microwave Oven with Grill",
+      "category": "Combination microwave oven",
+      "width_mm": 517,
+      "height_mm": 310,
+      "depth_mm": 474,
+      "screen_size_in": null,
+      "capacity_value": 28,
+      "capacity_unit": "L",
+      "power_w": 2100,
+      "energy_rating": null,
+      "key_features": [
+        "Microwave function",
+        "Grill function",
+        "Convection function",
+        "Hot Blast cooking",
+        "Slim Fry function",
+        "Ceramic enamel interior",
+        "Child safety lock",
+        "Deodorization function",
+        "Turntable diameter: 318 mm"
+      ],
+      "warranty": null,
+      "primary_source_url": "https://www.samsung.com/uk/microwave-ovens/convection/mc28h5013as-eu/",
+      "source_type": "Official manufacturer product page",
+      "additional_source_urls": [],
+      "confidence": 0.89,
+      "data_completeness": 0.82
+    },
+    "error": null,
+    "tested_at_utc": "2026-09-12T19:59:34.780381+00:00",
+    "http_status": 200,
+    "api_response": {
+      "id": "chatcmpl-ENOAqzus6fSvfE3Y2nfOmVjQt6y4b",
+      "object": "chat.completion",
+      "created": 1789243176,
+      "model": "gpt-5.6",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"manufacturer\": \"Samsung\",\n  \"requested_model\": \"MC28H5013AS/EU\",\n  \"official_model\": \"MC28H5013AS/EU\",\n  \"match_status\": \"exact_match\",\n  \"product_name\": \"28L Combination Microwave Oven with Grill\",\n  \"category\": \"Combination microwave oven\",\n  \"width_mm\": 517,\n  \"height_mm\": 310,\n  \"depth_mm\": 474,\n  \"screen_size_in\": null,\n  \"capacity_value\": 28,\n  \"capacity_unit\": \"L\",\n  \"power_w\": 2100,\n  \"energy_rating\": null,\n  \"key_features\": [\n    \"Microwave function\",\n    \"Grill function\",\n    \"Convection function\",\n    \"Hot Blast cooking\",\n    \"Slim Fry function\",\n    \"Ceramic enamel interior\",\n    \"Child safety lock\",\n    \"Deodorization function\",\n    \"Turntable diameter: 318 mm\"\n  ],\n  \"warranty\": null,\n  \"primary_source_url\": \"https://www.samsung.com/uk/microwave-ovens/convection/mc28h5013as-eu/\",\n  \"source_type\": \"Official manufacturer product page\",\n  \"additional_source_urls\": [],\n  \"confidence\": 0.89,\n  \"data_completeness\": 0.82\n}"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 403,
+        "completion_tokens": 803,
+        "total_tokens": 1206
+      }
+    },
+    "api_model": "gpt-5.6",
+    "search_metadata": {}
+  },
+  {
+    "official_model": null,
+    "product_name": null,
+    "category": null,
+    "width_mm": null,
+    "height_mm": null,
+    "depth_mm": null,
+    "screen_size_in": null,
+    "capacity_value": null,
+    "capacity_unit": null,
+    "power_w": null,
+    "energy_rating": null,
+    "warranty": null,
+    "primary_source_url": null,
+    "source_type": null,
+    "confidence": null,
+    "data_completeness": null,
+    "manufacturer": "Samsung",
+    "requested_model": "NV68A1170BS/EU",
+    "match_status": "UNVERIFIED",
+    "key_features": [],
+    "additional_source_urls": [],
+    "search_status": "NO_SEARCH_EVIDENCE",
+    "candidate_specs": {
+      "manufacturer": "Samsung",
+      "requested_model": "NV68A1170BS/EU",
+      "official_model": "NV68A1170BS/EU",
+      "match_status": "exact_match",
+      "product_name": "Built-in Oven with Dual Cook, 68L, Stainless Steel",
+      "category": "Built-in electric oven",
+      "width_mm": 595,
+      "height_mm": 595,
+      "depth_mm": 570,
+      "screen_size_in": null,
+      "capacity_value": 68,
+      "capacity_unit": "L",
+      "power_w": null,
+      "energy_rating": "A",
+      "key_features": [
+        "Dual Cook",
+        "Catalytic cleaning"
+      ],
+      "warranty": null,
+      "primary_source_url": "https://www.samsung.com/uk/cooking/ovens/nv68a1170bs-eu/",
+      "source_type": "Official manufacturer product page",
+      "additional_source_urls": [],
+      "confidence": 0.92,
+      "data_completeness": 0.78
+    },
+    "error": null,
+    "tested_at_utc": "2026-09-12T19:59:45.712453+00:00",
+    "http_status": 200,
+    "api_response": {
+      "id": "chatcmpl-ENOB0cKiwiJ8BnhS4LOLPwFCD8ose",
+      "object": "chat.completion",
+      "created": 1789243186,
+      "model": "gpt-5.6",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"manufacturer\": \"Samsung\",\n  \"requested_model\": \"NV68A1170BS/EU\",\n  \"official_model\": \"NV68A1170BS/EU\",\n  \"match_status\": \"exact_match\",\n  \"product_name\": \"Built-in Oven with Dual Cook, 68L, Stainless Steel\",\n  \"category\": \"Built-in electric oven\",\n  \"width_mm\": 595,\n  \"height_mm\": 595,\n  \"depth_mm\": 570,\n  \"screen_size_in\": null,\n  \"capacity_value\": 68,\n  \"capacity_unit\": \"L\",\n  \"power_w\": null,\n  \"energy_rating\": \"A\",\n  \"key_features\": [\n    \"Dual Cook\",\n    \"Catalytic cleaning\"\n  ],\n  \"warranty\": null,\n  \"primary_source_url\": \"https://www.samsung.com/uk/cooking/ovens/nv68a1170bs-eu/\",\n  \"source_type\": \"Official manufacturer product page\",\n  \"additional_source_urls\": [],\n  \"confidence\": 0.92,\n  \"data_completeness\": 0.78\n}"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 403,
+        "completion_tokens": 1275,
+        "total_tokens": 1678
+      }
+    },
+    "api_model": "gpt-5.6",
+    "search_metadata": {}
+  },
+  {
+    "official_model": null,
+    "product_name": null,
+    "category": null,
+    "width_mm": null,
+    "height_mm": null,
+    "depth_mm": null,
+    "screen_size_in": null,
+    "capacity_value": null,
+    "capacity_unit": null,
+    "power_w": null,
+    "energy_rating": null,
+    "warranty": null,
+    "primary_source_url": null,
+    "source_type": null,
+    "confidence": null,
+    "data_completeness": null,
+    "manufacturer": "LG",
+    "requested_model": "32LQ63006LA.AEK",
+    "match_status": "UNVERIFIED",
+    "key_features": [],
+    "additional_source_urls": [],
+    "search_status": "NO_SEARCH_EVIDENCE",
+    "candidate_specs": {
+      "manufacturer": "LG",
+      "requested_model": "32LQ63006LA.AEK",
+      "official_model": "32LQ63006LA",
+      "match_status": "matched",
+      "product_name": "LG 32-inch LQ63 Full HD Smart TV",
+      "category": "Television",
+      "width_mm": 736,
+      "height_mm": 464,
+      "depth_mm": 180,
+      "screen_size_in": 32,
+      "capacity_value": null,
+      "capacity_unit": null,
+      "power_w": null,
+      "energy_rating": "F",
+      "key_features": [
+        "Full HD resolution",
+        "HDR10 Pro",
+        "webOS smart TV platform",
+        "Filmmaker Mode",
+        "Game Optimizer"
+      ],
+      "warranty": null,
+      "primary_source_url": "https://www.lg.com/uk/tvs/lg-32lq63006la",
+      "source_type": "Official manufacturer product page",
+      "additional_source_urls": [],
+      "confidence": 0.86,
+      "data_completeness": 0.65
+    },
+    "error": null,
+    "tested_at_utc": "2026-09-12T20:00:01.403257+00:00",
+    "http_status": 200,
+    "api_response": {
+      "id": "chatcmpl-ENOBG9yJl4279YDaxqVxc6JwNcbcR",
+      "object": "chat.completion",
+      "created": 1789243202,
+      "model": "gpt-5.6",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"manufacturer\": \"LG\",\n  \"requested_model\": \"32LQ63006LA.AEK\",\n  \"official_model\": \"32LQ63006LA\",\n  \"match_status\": \"matched\",\n  \"product_name\": \"LG 32-inch LQ63 Full HD Smart TV\",\n  \"category\": \"Television\",\n  \"width_mm\": 736,\n  \"height_mm\": 464,\n  \"depth_mm\": 180,\n  \"screen_size_in\": 32,\n  \"capacity_value\": null,\n  \"capacity_unit\": null,\n  \"power_w\": null,\n  \"energy_rating\": \"F\",\n  \"key_features\": [\n    \"Full HD resolution\",\n    \"HDR10 Pro\",\n    \"webOS smart TV platform\",\n    \"Filmmaker Mode\",\n    \"Game Optimizer\"\n  ],\n  \"warranty\": null,\n  \"primary_source_url\": \"https://www.lg.com/uk/tvs/lg-32lq63006la\",\n  \"source_type\": \"Official manufacturer product page\",\n  \"additional_source_urls\": [],\n  \"confidence\": 0.86,\n  \"data_completeness\": 0.65\n}"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 404,
+        "completion_tokens": 1101,
+        "total_tokens": 1505
+      }
+    },
+    "api_model": "gpt-5.6",
+    "search_metadata": {}
+  },
+  {
+    "official_model": null,
+    "product_name": null,
+    "category": null,
+    "width_mm": null,
+    "height_mm": null,
+    "depth_mm": null,
+    "screen_size_in": null,
+    "capacity_value": null,
+    "capacity_unit": null,
+    "power_w": null,
+    "energy_rating": null,
+    "warranty": null,
+    "primary_source_url": null,
+    "source_type": null,
+    "confidence": null,
+    "data_completeness": null,
+    "manufacturer": "LG",
+    "requested_model": "43LQ60006LA.LG",
+    "match_status": "UNVERIFIED",
+    "key_features": [],
+    "additional_source_urls": [],
+    "search_status": "NO_SEARCH_EVIDENCE",
+    "candidate_specs": {
+      "manufacturer": "LG",
+      "requested_model": "43LQ60006LA.LG",
+      "official_model": "43LQ60006LA",
+      "match_status": "base_model_match",
+      "product_name": "43-inch LQ60 Full HD Smart TV",
+      "category": "Television",
+      "width_mm": 977,
+      "height_mm": 575,
+      "depth_mm": 80.8,
+      "screen_size_in": 43,
+      "capacity_value": null,
+      "capacity_unit": null,
+      "power_w": null,
+      "energy_rating": "F",
+      "key_features": [
+        "Full HD resolution, 1920 x 1080",
+        "HDR10 Pro",
+        "webOS 22 Smart TV platform",
+        "α5 Gen5 AI Processor 4K",
+        "Game Optimizer",
+        "Wi-Fi and Bluetooth connectivity"
+      ],
+      "warranty": null,
+      "primary_source_url": "https://www.lg.com/uk/tvs/lg-43lq60006la",
+      "source_type": "Official manufacturer product page",
+      "additional_source_urls": [
+        "https://www.lg.com/uk/support/product/lg-43LQ60006LA"
+      ],
+      "confidence": 0.88,
+      "data_completeness": 0.72
+    },
+    "error": null,
+    "tested_at_utc": "2026-09-12T20:00:11.881361+00:00",
+    "http_status": 200,
+    "api_response": {
+      "id": "chatcmpl-ENOBQQES49ImV8X1Ri3MiTg9dL542",
+      "object": "chat.completion",
+      "created": 1789243212,
+      "model": "gpt-5.6",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"manufacturer\": \"LG\",\n  \"requested_model\": \"43LQ60006LA.LG\",\n  \"official_model\": \"43LQ60006LA\",\n  \"match_status\": \"base_model_match\",\n  \"product_name\": \"43-inch LQ60 Full HD Smart TV\",\n  \"category\": \"Television\",\n  \"width_mm\": 977,\n  \"height_mm\": 575,\n  \"depth_mm\": 80.8,\n  \"screen_size_in\": 43,\n  \"capacity_value\": null,\n  \"capacity_unit\": null,\n  \"power_w\": null,\n  \"energy_rating\": \"F\",\n  \"key_features\": [\n    \"Full HD resolution, 1920 x 1080\",\n    \"HDR10 Pro\",\n    \"webOS 22 Smart TV platform\",\n    \"α5 Gen5 AI Processor 4K\",\n    \"Game Optimizer\",\n    \"Wi-Fi and Bluetooth connectivity\"\n  ],\n  \"warranty\": null,\n  \"primary_source_url\": \"https://www.lg.com/uk/tvs/lg-43lq60006la\",\n  \"source_type\": \"Official manufacturer product page\",\n  \"additional_source_urls\": [\n    \"https://www.lg.com/uk/support/product/lg-43LQ60006LA\"\n  ],\n  \"confidence\": 0.88,\n  \"data_completeness\": 0.72\n}"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 404,
+        "completion_tokens": 1333,
+        "total_tokens": 1737
+      }
+    },
+    "api_model": "gpt-5.6",
+    "search_metadata": {}
+  }
+]
