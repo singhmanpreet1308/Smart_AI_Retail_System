@@ -1,4 +1,4 @@
-Smart AI Retail System
+# Smart AI Retail System
 
 **An end-to-end retail decision intelligence platform connecting governed data, business intelligence, inventory recommendations, forecasting, competitive pricing and AI-assisted product knowledge.**
 
