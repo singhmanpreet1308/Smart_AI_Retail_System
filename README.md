@@ -4,7 +4,7 @@ Smart AI Retail System
 
 Transforming fragmented retail spreadsheets into a shared analytical foundation that helps management understand performance, purchasing teams prioritize stock decisions, and store staff access reliable product information.
 
-> **Current progress:** Phases 0–5 are completed. Phase 6 forecasting has been built and evaluated using the available data. Phase 7 Competitor Price-Matcher has been built and tested. Phase 8 AI Retail Assistant and Product Knowledge Layer are being built and tested. Live Electronic Shelf Label (ESL) integration remains future scope.
+![1789777085675](image/README/1789777085675.webp)
 
 ## Project Overview
 
@@ -291,5 +291,5 @@ Production audit trails, access controls, refresh monitoring and model-quality m
 | 5     | Inventory intelligence                                   | Completed                                                           |
 | 6     | Forecasting                                              | Built and evaluated using available data                            |
 | 7     | Competitor Price-Matcher / pricing intelligence          | Matcher built and tested; live ESL integration remains future scope |
-| 8     | AI Retail Assistant and Product Knowledge Layer          | Being built and tested                                              |
+| 8     | AI Retail Assistant and Product Knowledge Layer          | Completed                                                           |
 | 9     | Control, deployment and operational monitoring           | Planned                                                             |
